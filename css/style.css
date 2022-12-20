@@ -35,7 +35,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.3rem;
   line-height: 3rem;
   letter-spacing: 12px;
   text-transform: uppercase;
@@ -149,8 +149,8 @@ a:hover, a:active, a:focus {
 }
 
 .overlay {
-  background: #304352;
-  opacity: 0.9;
+  background: #344654;
+  opacity: 0.8;
   position: absolute;
   width: 100%;
   height: 100vh;
