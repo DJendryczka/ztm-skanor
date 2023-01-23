@@ -34,8 +34,9 @@ $(document).ready(function() {
     $('body').vegas({
         slides: [
             { src: 'images/slide-1.jpg' },
-            { src: 'images/slide-2.1.jpg' },
-            { src: 'images/slide-3.jpg' }
+            { src: 'images/Kompanigatan-73.jpg' },
+            { src: 'images/slide-2.1.jpg' }
+            
         ],
         timer: false,
         transition: [ 'zoomIn', ],
